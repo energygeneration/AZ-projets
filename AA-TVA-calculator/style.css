@@ -1,0 +1,9 @@
+.container{
+    width: 60%;
+    text-align: center;
+    background-color: rgb(3, 3, 63);
+    color: white;
+}
+.nav-link{
+    color: white;
+}
